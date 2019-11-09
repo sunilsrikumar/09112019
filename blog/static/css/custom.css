@@ -1,0 +1,16 @@
+.navbar-dark .navbar-brand {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.container{
+    max-width: 900px;
+}
+
+h2{
+    font-family: 'Anton', sans-serif;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: justify;
+}
